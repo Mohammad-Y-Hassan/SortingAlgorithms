@@ -1,3 +1,9 @@
+/**
+ * This class demonstrates the Bubble Sort algorithm.
+ * It sorts an array of integers in ascending order by repeatedly
+ * swapping adjacent elements if they are in the wrong order.
+ */
+
 public class BubbleSort {
     public static void main(String[] args) {
         int[] intArray = {1, 2, 3, 4, 5, 6, 7};

@@ -1,3 +1,9 @@
+/**
+ * This class demonstrates the Selection Sort algorithm.
+ * It sorts an array of integers in ascending order by repeatedly
+ * finding the largest element from the unsorted part and moving it to the end.
+ */
+
 public class SelectionSort {
     public static void main(String[] args) {
         int [] intArray = {20, 30, 12, -2, 123, 272, 9};
