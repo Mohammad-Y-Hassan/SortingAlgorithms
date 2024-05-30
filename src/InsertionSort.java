@@ -1,3 +1,9 @@
+/**
+ * This class demonstrates the Insertion Sort algorithm.
+ * It sorts an array of integers in ascending order by building
+ * a sorted section of the array one element at a time.
+ */
+
 public class InsertionSort {
     public static void main(String[] args) {
         int[] intArray = {12, -2, 32, 11, 12, 1, 120};

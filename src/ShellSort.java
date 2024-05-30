@@ -1,3 +1,9 @@
+/**
+ * This class demonstrates the Shell Sort algorithm.
+ * It sorts an array of integers in ascending order by
+ * comparing elements at a specific interval and reducing the interval over time.
+ */
+
 public class ShellSort {
     public static void main(String[] args) {
         int[] intArray = {12, 10, 1, -2, 16, 92, -9};
