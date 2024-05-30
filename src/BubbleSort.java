@@ -13,8 +13,6 @@ public class BubbleSort {
         for (int i : intArray) {
             System.out.print(i + "\t\t");
         }
-        System.out.println("\n");
-
     }
     public static void swap(int[] array, int x, int y) {
         if (x == y) {
