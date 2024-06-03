@@ -1,3 +1,9 @@
+/**
+ * This class demonstrates the use of recursion to calculate factorials.
+ * It iterates through an array of integers, and for each integer,
+ * it calculates and prints the factorials of all numbers from 0 to that integer.
+ */
+
 public class Recursion {
     public static void main(String[] args) {
         int[] intArray = {3, 2, 10, 5, 1, 0};
