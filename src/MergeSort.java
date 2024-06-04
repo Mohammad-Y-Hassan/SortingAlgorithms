@@ -1,3 +1,9 @@
+/**
+ * The MergeSort class efficiently sorts an array using the
+ * divide-and-conquer strategy of breaking down the array
+ * into smaller subarrays, sorting them, and merging them back together.
+ * This ensures that the array is sorted in O(n log n) time complexity.
+ */
 public class MergeSort {
     public static void main(String[] args) {
         int[] intArray = { 2, 95, 21, -23, 5, 10, 53};
