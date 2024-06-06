@@ -1,3 +1,12 @@
+/**
+ * The QuickSort class implements the Quick Sort algorithm
+ * to sort an array of integers. It uses recursive partitioning
+ * to divide the array around a pivot element, ensuring elements
+ * less than the pivot are left of it and those
+ * greater are right of it. This process repeats
+ * for subarrays until the entire array is sorted,
+ * achieving an efficient average time complexity of O(n log n).
+ */
 public class QuickSort {
     public static void main(String[] args) {
         int[] intArray = {-2, 10, 1, 0, 15, 32, -8};
