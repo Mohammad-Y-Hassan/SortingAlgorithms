@@ -7,6 +7,7 @@
  * sorting algorithm is efficient for sorting numbers with a
  * limited range, offering linear time complexity, O(n + k),
  * where k is the range of the input.
+ * However, this is an unstable sorting algorithm.
  */
 public class CountingSort {
     public static void main(String[] args) {
